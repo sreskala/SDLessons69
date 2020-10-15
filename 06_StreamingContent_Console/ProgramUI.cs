@@ -78,6 +78,7 @@ namespace _06_StreamingContent_Console
                         break;
                     case "4":
                         //Update streaming content
+                        UpdateExistingContent();
                         break;
                     case "5":
                         //Delete content
@@ -241,6 +242,82 @@ namespace _06_StreamingContent_Console
 
             Console.WriteLine("Press any key to continue");
             Console.ReadKey();
+        }
+
+        private void UpdateExistingContent()
+        {
+            Console.Clear();
+
+            Console.WriteLine("Please enter title of content you would like to update: ");
+            string title = Console.ReadLine();
+
+            //StreamingContentBase contentToUpdate = _repo.GetContentByTitle(title);
+
+            if (title != null)
+            {
+                //instantiate empty StreamingContentBase object
+                StreamingContentBase newContent = new StreamingContentBase();
+
+                //get user input
+                Console.WriteLine("Enter a title:");
+                newContent.Title = Console.ReadLine();
+
+                Console.WriteLine("Enter a description:");
+                newContent.Description = Console.ReadLine();
+
+                Console.WriteLine("Enter a rating (1.0 - 10.0):");
+                string ratingAsString = Console.ReadLine();
+                double ratingAsDouble = double.Parse(ratingAsString);
+                newContent.StarRating = ratingAsDouble;
+
+                Console.WriteLine("Select a genre:");
+                Console.WriteLine(" 1.Horror\n 2.RomCom\n 3.SciFi\n 4.Action\n 5.Documentary\n 6.Musical\n" +
+                    " 7.Drama\n 8.Mystery\n");
+                string genreInput = Console.ReadLine();
+                int genreInt = Int32.Parse(genreInput);
+                //cast the genre
+                newContent.Genre = (Genre)(genreInt - 1);
+
+                Console.WriteLine("Select a Maturity Rating:");
+                Console.WriteLine("1.G\n 2.PG\n 3.PG_13\n 4.R\n 5.NC_17\n");
+
+                string maturityRating = Console.ReadLine();
+
+                switch (maturityRating)
+                {
+                    case "1":
+                        newContent.MaturityRating = MaturityRating.G;
+                        break;
+                    case "2":
+                        newContent.MaturityRating = MaturityRating.PG;
+                        break;
+                    case "3":
+                        newContent.MaturityRating = MaturityRating.PG_13;
+                        break;
+                    case "4":
+                        newContent.MaturityRating = MaturityRating.R;
+                        break;
+                    case "5":
+                        newContent.MaturityRating = MaturityRating.NC_17;
+                        break;
+                    default:
+                        throw new InvalidEnumArgumentException("Invalid selection from category");
+                }
+
+                bool wasUpdated = _repo.UpdateExistingContent(title, newContent);
+
+                if (wasUpdated)
+                {
+                    Console.WriteLine("Content successfully updated!");
+                } else
+                {
+                    Console.WriteLine("ERROR: Content not added.");
+                }
+
+            } else
+            {
+                Console.WriteLine("Title doesn't exist");
+            }
         }
     }
 }
