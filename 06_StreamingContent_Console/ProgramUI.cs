@@ -16,7 +16,31 @@ namespace _06_StreamingContent_Console
 
         public void Run()
         {
+            SeedContent();
             Menu();
+        }
+
+        private void SeedContent()
+        {
+            StreamingContentBase futureWar = new StreamingContentBase(
+                "Future War",
+                "A war in the future",
+                10.0,
+                Genre.SciFi,
+                MaturityRating.G
+                );
+
+            _repo.AddContentToDirectory(futureWar);
+
+            StreamingContentBase theRoom = new StreamingContentBase(
+                "The Room",
+                "Everyone betrays Johnny",
+                10.0,
+                Genre.Documentary,
+                MaturityRating.G
+                );
+
+            _repo.AddContentToDirectory(theRoom);
         }
 
         private void Menu()
