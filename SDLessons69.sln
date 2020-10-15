@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentTests", "St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_StreamingContent_Console", "06_StreamingContent_Console\06_StreamingContent_Console.csproj", "{8D297884-D3F2-4058-A8DC-251CA1C97EDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Inheritance", "07_Inheritance\07_Inheritance.csproj", "{8BB6267D-3796-4068-BD16-30978A3B6A76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8D297884-D3F2-4058-A8DC-251CA1C97EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D297884-D3F2-4058-A8DC-251CA1C97EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D297884-D3F2-4058-A8DC-251CA1C97EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB6267D-3796-4068-BD16-30978A3B6A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB6267D-3796-4068-BD16-30978A3B6A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB6267D-3796-4068-BD16-30978A3B6A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB6267D-3796-4068-BD16-30978A3B6A76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
