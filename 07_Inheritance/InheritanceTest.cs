@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using _07_Inheritance.Animals;
 using _07_Inheritance.People;
@@ -32,6 +33,10 @@ namespace _07_Inheritance
             Console.WriteLine(sloth.IsSlow);
             sloth.Move();
             sloth.SayFurColor();
+
+            List<int> list = new List<int>();
+
+            Console.WriteLine(list.Add());
         }
     }
 }

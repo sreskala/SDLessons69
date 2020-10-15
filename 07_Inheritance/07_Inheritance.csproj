@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animals\Animal.cs" />
+    <Compile Include="Animals\Dog.cs" />
     <Compile Include="Animals\Sloth.cs" />
     <Compile Include="InheritanceTest.cs" />
     <Compile Include="People\Employee.cs" />
