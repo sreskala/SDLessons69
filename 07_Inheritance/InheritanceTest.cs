@@ -35,8 +35,6 @@ namespace _07_Inheritance
             sloth.SayFurColor();
 
             List<int> list = new List<int>();
-
-            Console.WriteLine(list.Add());
         }
     }
 }
