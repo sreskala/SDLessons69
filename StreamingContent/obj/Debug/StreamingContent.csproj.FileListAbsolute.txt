@@ -1,6 +1,5 @@
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\StreamingContent\bin\Debug\StreamingContent.dll
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\StreamingContent\bin\Debug\StreamingContent.pdb
-C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\StreamingContent\obj\Debug\StreamingContent.csprojAssemblyReference.cache
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\StreamingContent\obj\Debug\StreamingContent.csproj.CoreCompileInputs.cache
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\StreamingContent\obj\Debug\StreamingContent.dll
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\StreamingContent\obj\Debug\StreamingContent.pdb

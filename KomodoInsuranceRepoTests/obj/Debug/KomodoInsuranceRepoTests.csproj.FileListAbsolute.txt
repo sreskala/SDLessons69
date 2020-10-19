@@ -1,0 +1,16 @@
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\obj\Debug\KomodoInsuranceRepoTests.csprojAssemblyReference.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\obj\Debug\KomodoInsuranceRepoTests.csproj.CoreCompileInputs.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\KomodoInsuranceRepoTests.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\KomodoInsuranceRepoTests.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Challenge_KomodoInsurance.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Challenge_KomodoInsurance.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\obj\Debug\KomodoInsuranceRepoTests.csproj.CopyComplete
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\obj\Debug\KomodoInsuranceRepoTests.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\KomodoInsuranceRepoTests\obj\Debug\KomodoInsuranceRepoTests.pdb

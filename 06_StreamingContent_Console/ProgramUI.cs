@@ -279,7 +279,7 @@ namespace _06_StreamingContent_Console
                 newContent.Genre = (Genre)(genreInt - 1);
 
                 Console.WriteLine("Select a Maturity Rating:");
-                Console.WriteLine("1.G\n 2.PG\n 3.PG_13\n 4.R\n 5.NC_17\n");
+                Console.WriteLine(" 1.G\n 2.PG\n 3.PG_13\n 4.R\n 5.NC_17\n");
 
                 string maturityRating = Console.ReadLine();
 

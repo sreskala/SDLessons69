@@ -1,0 +1,6 @@
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\Challenge_KomodoInsurance\obj\Debug\Challenge_KomodoInsurance.csprojAssemblyReference.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\Challenge_KomodoInsurance\obj\Debug\Challenge_KomodoInsurance.csproj.CoreCompileInputs.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\Challenge_KomodoInsurance\bin\Debug\Challenge_KomodoInsurance.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\Challenge_KomodoInsurance\bin\Debug\Challenge_KomodoInsurance.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\Challenge_KomodoInsurance\obj\Debug\Challenge_KomodoInsurance.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\Challenge_KomodoInsurance\obj\Debug\Challenge_KomodoInsurance.pdb
