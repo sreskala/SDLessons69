@@ -1,0 +1,13 @@
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe.config
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csprojAssemblyReference.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CoreCompileInputs.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.exe
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\06_StreamingContent_Console.exe
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\StreamingContent.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\06_StreamingContent_Console.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\06_StreamingContent_Console.exe.config
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\bin\Debug\StreamingContent.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CopyComplete

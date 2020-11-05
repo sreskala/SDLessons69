@@ -80,5 +80,18 @@ namespace KomodoInsuranceRepoTests
 
             Assert.IsTrue(wasDeleted);
         }
+
+        [TestMethod]
+        public void SendMessage_ShouldReturnCorrectMessage()
+        {
+            KomodoCustomer customer1 = new KomodoCustomer(15, "Jones", 30, new DateTime(2000, 10, 3));
+            KomodoCustomer customer2 = new KomodoCustomer(16, "Smith", 30, new DateTime(2018, 12, 18));
+
+            string message = customer1.SendMessage();
+            string message2 = customer2.SendMessage();
+
+            Assert.AreEqual(message, "Thank you for being a Gold member!");
+            Assert.AreEqual(message2, "Sending thank you note.");
+        }
     }
 }

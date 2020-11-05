@@ -1,0 +1,12 @@
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\bin\Debug\10_IntroToAPI.exe.config
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\bin\Debug\10_IntroToAPI.exe
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\bin\Debug\10_IntroToAPI.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\obj\Debug\10_IntroToAPI.csprojAssemblyReference.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\obj\Debug\10_IntroToAPI.csproj.CoreCompileInputs.cache
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\obj\Debug\10_IntroToAPI.csproj.CopyComplete
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\obj\Debug\10_IntroToAPI.exe
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\10_IntroToAPI\obj\Debug\10_IntroToAPI.pdb

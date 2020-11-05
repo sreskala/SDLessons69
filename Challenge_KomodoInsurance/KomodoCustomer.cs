@@ -45,5 +45,21 @@ namespace Challenge_KomodoInsurance
             Age = age;
             EnrollmentDate = enrollment;
         }
+
+        public string SendMessage()
+        {
+            int yearsAsCustomer = YearsAsCustomer;
+
+            if(yearsAsCustomer >= 1 && yearsAsCustomer <= 5)
+            {
+                return "Sending thank you note.";
+            } else if(yearsAsCustomer > 5)
+            {
+                return "Thank you for being a Gold member!";
+            } else
+            {
+                return "Get a year under your belt.";
+            }
+        }
     }
 }

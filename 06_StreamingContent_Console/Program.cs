@@ -8,10 +8,16 @@ namespace _06_StreamingContent_Console
 {
     class Program
     {
-        static void Main(string[] args)
+        public static double Average(int a, int b)
         {
-            ProgramUI userInterface = new ProgramUI();
-            userInterface.Run();
+            return Convert.ToDouble((a + b) / 2);
+        }
+        public static void Main(string[] args)
+        {
+            //ProgramUI userInterface = new ProgramUI();
+            //userInterface.Run();
+            Console.WriteLine(Average(2, 1));
+            Console.ReadKey();
         }
     }
 }

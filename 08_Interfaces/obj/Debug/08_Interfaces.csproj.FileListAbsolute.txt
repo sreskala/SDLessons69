@@ -11,3 +11,4 @@ C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\08_Interfaces\obj\Debug\08_Interfaces.csproj.CopyComplete
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\08_Interfaces\obj\Debug\08_Interfaces.dll
 C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\08_Interfaces\obj\Debug\08_Interfaces.pdb
+C:\Users\samsa\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\SDLessons69\08_Interfaces\obj\Debug\08_Interfaces.csprojAssemblyReference.cache
